@@ -21,9 +21,7 @@ The program offers the following options:
 ![Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left](/images/fig4.png) <br>
 * repeating the process <br>
 ![repeating the process](/images/fig5.png) <br>
-* repeating the process <br>
 ![repeating the process](/images/fig6.png) <br>
-* repeating the process <br>
 ![repeating the process](/images/fig7.png) <br>
 * Stylizing the map and enumerating the rows and columns <br>
 ![Stylizing the map and enumerating the rows and columns](/images/fig8.png) <br>
