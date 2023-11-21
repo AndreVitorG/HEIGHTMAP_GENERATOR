@@ -11,21 +11,21 @@ The program offers the following options:
 
 # ALGORITHM
 
-* Creating the matrix
-![Creating the matrix](/images/fig1.png)
-* Creating new lines in between
-![Creating new lines in between](/images/fig2.png)
-*Filling the lines with numbers that have values between the one above and the one below
-![Filling the lines with numbers that have values between the one above and the one below](/images/fig3.png)
-* Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left
-![Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left](/images/fig4.png)
-* repeating the process
-![repeating the process](/images/fig5.png)
-* repeating the process
-![repeating the process](/images/fig6.png)
-* repeating the process
-![repeating the process](/images/fig7.png)
-* Stylizing the map and enumerating the rows and columns
-![Stylizing the map and enumerating the rows and columns](/images/fig8.png)
+* Creating the matrix <br>
+![Creating the matrix](/images/fig1.png) <br>
+* Creating new lines in between <br>
+![Creating new lines in between](/images/fig2.png) <br>
+*Filling the lines with numbers that have values between the one above and the one below <br>
+![Filling the lines with numbers that have values between the one above and the one below](/images/fig3.png) <br>
+* Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left <br>
+![Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left](/images/fig4.png) <br>
+* repeating the process <br>
+![repeating the process](/images/fig5.png) <br>
+* repeating the process <br>
+![repeating the process](/images/fig6.png) <br>
+* repeating the process <br>
+![repeating the process](/images/fig7.png) <br>
+* Stylizing the map and enumerating the rows and columns <br>
+![Stylizing the map and enumerating the rows and columns](/images/fig8.png) <br>
 
 ----
