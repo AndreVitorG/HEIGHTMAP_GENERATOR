@@ -24,8 +24,8 @@ The program offers the following options:
 * The process above is repeated but horizontally
 * New columns are created with numbers that have values in between the number to the left and to the right <br>
 ![Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left](/images/fig4.png) <br>
-## repeating the process 
-* repeating the vertical and horizontal processes one more time <br>
+## Repeating the process 
+* Repeating the vertical and horizontal processes one more time <br>
 ![repeating the process](/images/fig5.png) <br>
 ![repeating the process](/images/fig6.png) <br>
 ![repeating the process](/images/fig7.png) <br>
