@@ -46,6 +46,7 @@ The program offers the following options:
 # CODE
 
 ## Calling the methods to create a map
+* `from map import Map` first import the Map class.
 * The `populate` method is where the magic happens, it can be called infinetely, but the size of the map increases significantly each time.
 * The line below calls the populate method twice just like in the images above.
 ```python
