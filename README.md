@@ -18,7 +18,7 @@ The program offers the following options:
 * New rows are created to fit new numbers <br>
 ![Creating new lines in between](/images/fig2.png) <br>
 ## Filling the rows 
-* The new rows are filled with numbers that have values in between the number above and the one below <br>
+* The new rows are filled with numbers that have values in between the number above and the number below <br>
 ![Filling the lines with numbers that have values between the one above and the one below](/images/fig3.png) <br>
 ## Filling the matrix horizontally 
 * The process above is repeated but horizontally
