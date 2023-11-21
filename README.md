@@ -51,10 +51,10 @@ The program offers the following options:
 ```python
 Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(Map)))))
 ```
-* `Map.create_matrix(Map)` creates the initial ,matrix using random numbers from 0 to 300, the initial matrix size can be defined inside the code (default: height=10,width=8).
-* `Map.populate(matrix)` main algorithm method, fills the matrix vertically and horizontally.
-* `Map.process_matrix(matrix)` enumerates the rows and columns and stylizes the matrix to look more like a map.
-* `Map.print_matrix(matrix)` prints the 2D array in a readable way.
+* `Map.create_matrix(Map)` - creates the initial ,matrix using random numbers from 0 to 300, the initial matrix size can be defined inside the code (default: height=10,width=8).
+* `Map.populate(matrix)` - main algorithm method, fills the matrix vertically and horizontally.
+* `Map.process_matrix(matrix)` - enumerates the rows and columns and stylizes the matrix to look more like a map.
+* `Map.print_matrix(matrix)` - prints the 2D array in a readable way.
 
 ----
 ----
