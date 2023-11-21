@@ -15,7 +15,7 @@ The program offers the following options:
 * The matrix is initially created using random numbers from 0 to 300 <br>
 ![Creating the matrix](/images/fig1.png) <br>
 ## Creating new rows in between 
-* New rows are created to fit the new numbers <br>
+* New rows are created to fit new numbers <br>
 ![Creating new lines in between](/images/fig2.png) <br>
 ## Filling the rows 
 * The new rows are filled with numbers that have values in between the number above and the one below <br>
