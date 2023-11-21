@@ -59,3 +59,9 @@ Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(
 
 ----
 ----
+
+# TODO
+* clear screen
+* fix reading map
+* make executable
+* stylize with ascii
