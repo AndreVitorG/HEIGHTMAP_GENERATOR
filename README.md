@@ -65,3 +65,4 @@ Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(
 * fix reading map
 * make executable
 * stylize with ascii
+* html with pyscript
