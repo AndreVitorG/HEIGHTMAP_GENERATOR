@@ -35,3 +35,12 @@ The program offers the following options:
 ![Stylizing the map and enumerating the rows and columns](/images/fig8.png) <br>
 
 ----
+
+# CODE
+
+## Calling the methods to create a map
+```python
+Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(Map)))))
+``` 
+
+----
