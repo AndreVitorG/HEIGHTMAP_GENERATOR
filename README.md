@@ -11,19 +11,27 @@ The program offers the following options:
 
 # ALGORITHM
 
-* Creating the matrix <br>
+## Creating the matrix 
+* The matrix is initially created using random numbers from 0 to 300 <br>
 ![Creating the matrix](/images/fig1.png) <br>
-* Creating new lines in between <br>
+## Creating new rows in between 
+* New rows are created to fit the new numbers <br>
 ![Creating new lines in between](/images/fig2.png) <br>
-*Filling the lines with numbers that have values between the one above and the one below <br>
+## Filling the rows 
+* The new rows are filled with numbers that have values in between the number above and the one below <br>
 ![Filling the lines with numbers that have values between the one above and the one below](/images/fig3.png) <br>
-* Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left <br>
+## Filling the matrix horizontally 
+* The process above is repeated but horizontally
+* New columns are created with numbers that have values in between the number to the left and to the right <br>
 ![Filling the matrix the same way but horizontally, the numbers have values between the number to the right and to the left](/images/fig4.png) <br>
-* repeating the process <br>
+## repeating the process 
+* repeating the process above one more time <br>
 ![repeating the process](/images/fig5.png) <br>
 ![repeating the process](/images/fig6.png) <br>
 ![repeating the process](/images/fig7.png) <br>
-* Stylizing the map and enumerating the rows and columns <br>
+## Stylizing the map 
+* Identified the rows by numbers and the columns by letters and symbols
+* Changed every number above 100 to 'XXX' and every number below 100 to ' ' <br>
 ![Stylizing the map and enumerating the rows and columns](/images/fig8.png) <br>
 
 ----
