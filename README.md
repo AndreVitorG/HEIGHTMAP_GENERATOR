@@ -66,3 +66,4 @@ Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(
 * make executable
 * stylize with ascii
 * html with pyscript
+* more layers?? (making the map smaller and using populate more times)
