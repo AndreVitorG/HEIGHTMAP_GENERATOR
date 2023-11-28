@@ -61,9 +61,8 @@ Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(
 ----
 
 # TODO
-* clear screen
+* clear screen (check if works inside executable)
 * fix reading map
 * make executable
-* stylize with ascii
+* stylize with ascii and make colorful png (done - document)
 * html with pyscript
-* more layers?? (making the map smaller and using populate more times)
