@@ -1,5 +1,6 @@
 # HEIGHTMAP_GENERATOR
 A heightmap generator using python
+
 The program offers the following options:
 * Generate new map
 * Read and print existing map (csv)
@@ -61,9 +62,9 @@ Map.print_matrix(Map.process_matrix(Map.populate(Map.populate(Map.create_matrix(
 ----
 
 # TODO
-* clear screen (check if works inside executable)
-* fix reading map
+* clear screen
+* fix map input
 * make executable
-* stylize with ascii and make colorful png (done - document)
-* make it preattier by adjusting the values 
+* stylize with ascii and make a colorful png (done - document)
+* make it "preattier" by adjusting the values 
 * html with pyscript
